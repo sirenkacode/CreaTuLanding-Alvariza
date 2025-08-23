@@ -1,0 +1,12 @@
+[33m9ea7dfa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: rebase (abort): returning to refs/heads/main
+[33mf137596[m HEAD@{1}: pull --rebase origin main (start): checkout f1375969f65a028528681428b2d0b3d3279887b3
+[33m9ea7dfa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: checkout: moving from main to main
+[33m9ea7dfa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: rebase (abort): returning to refs/heads/main
+[33mfdf13ef[m HEAD@{4}: commit: fix: mover proyecto a raíz, limpiar duplicados y configurar vite.config.js
+[33mc5f8c90[m HEAD@{5}: pull --rebase origin main (start): checkout c5f8c907502458c4eeff10749fe9c7176793995d
+[33m9ea7dfa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{6}: commit: Agregar estructura inicial con NavBar, CartWidget, ItemListContainer y estilos base (estética Reboot)
+[33m2a7997c[m HEAD@{7}: pull --rebase origin main (finish): returning to refs/heads/main
+[33m2a7997c[m HEAD@{8}: pull --rebase origin main (pick): test - plantilla inicial
+[33m82ffdf6[m HEAD@{9}: pull --rebase origin main (start): checkout 82ffdf6bbde2623d1ff7bdf531fed7eb7b1d57fc
+[33m7735641[m HEAD@{10}: commit (merge): setear title 'Reboot' y README inicial
+[33m966f266[m HEAD@{11}: commit (initial): test - plantilla inicial
