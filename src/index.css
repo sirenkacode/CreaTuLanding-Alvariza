@@ -34,7 +34,7 @@ a:hover{ text-decoration: underline; }
   font-size: 18px;
   letter-spacing: 0.2px;
 }
-.nav-links{
+/* .nav-links{
   display: flex; align-items: center; gap: 18px;
 }
 .nav-links a{
@@ -45,6 +45,20 @@ a:hover{ text-decoration: underline; }
 .nav-links a:hover{
   border-color: var(--fg);
   text-decoration: none;
+} */
+
+.nav-link {
+  text-decoration: none;
+  padding: 6px 8px;
+  border-radius: 8px;
+  color: var(--text, #222);
+}
+.nav-link:hover {
+  background: rgba(0,0,0,0.05);
+}
+.nav-link--active {
+  background: var(--accent, #111);
+  color: #fff;
 }
 
 /* ====== Cart ====== */
@@ -110,3 +124,4 @@ a:hover{ text-decoration: underline; }
 @media (max-width: 768px){
   .nav-links{ display: none; } 
 }
+
